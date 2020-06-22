@@ -802,11 +802,11 @@ background-image: linear-gradient(45deg, #56c388 0%, #70ea26 100%);
   line-height: 19px;
 }
 
-.map {
+.maps {
   position: relative;
 }
 
-.map #map {
+.maps #maps {
   height: 400px;
   color: white;
 }
@@ -3541,7 +3541,7 @@ background-image: linear-gradient(45deg, #56c388 0%, #70ea26 100%);
   .fixed-header {
     background: #000000 !important;
   }
-  .google-map-area {
+  .google-maps-area {
     margin-right: 0px !important;
   }
 }
