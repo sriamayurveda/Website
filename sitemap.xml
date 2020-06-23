@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>http://sriamayurvedaresearch.com/</loc>
+    <lastmod>2020-06-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/logo.png</image:loc>
+      <image:title>sriam ayurvedic hospital</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/icons/spine.png</image:loc>
+      <image:title>spine icon</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/spine.jpg</image:loc>
+      <image:title>spine problems</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/icons/orthopng.png</image:loc>
+      <image:title>ortho icon</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/ortho.jpg</image:loc>
+      <image:title>ortho problems</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/icons/immune.png</image:loc>
+      <image:title>immune logo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/immune-disorders.jpg</image:loc>
+      <image:title>immune problems</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/services/service-middle.png</image:loc>
+      <image:title>integrating</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/icons/leech.png</image:loc>
+      <image:title>leech logo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/varicose.jpg</image:loc>
+      <image:title>varicose problems</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/icons/pediatrics.png</image:loc>
+      <image:title>pediatrics logo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/pediatrics.jpg</image:loc>
+      <image:title>pediatrics problems</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/gyn.jpg</image:loc>
+      <image:title>gynaec problems</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/services/panchakarma.jpg</image:loc>
+      <image:title>panchakarma tratment</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/services/cupping-therapy.jpg</image:loc>
+      <image:title>dry cupping and wet cupping</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/services/marma.jpg</image:loc>
+      <image:title>marma therapy</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/services/acupuncture.jpg</image:loc>
+      <image:title>acupuncture</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/services/doorstep.jpg</image:loc>
+      <image:title>treatment at your home</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/testimonials/male.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/testimonials/female.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/blog/post-thumb-small.jpg</image:loc>
+      <image:title>post-thumb</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://sriamayurvedaresearch.com/panchakarma.html</loc>
+    <lastmod>2020-06-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/logo.png</image:loc>
+      <image:title>sriam ayurvedic hospital</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/services/panchakarma.jpg</image:loc>
+      <image:title>panchakarma tratment</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/blog/post-thumb-small.jpg</image:loc>
+      <image:title>post-thumb</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://sriamayurvedaresearch.com/marma.html</loc>
+    <lastmod>2020-06-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/logo.png</image:loc>
+      <image:title>sriam ayurvedic hospital</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/services/marma.jpg</image:loc>
+      <image:title>marma therapy</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/blog/post-thumb-small.jpg</image:loc>
+      <image:title>post-thumb</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://sriamayurvedaresearch.com/acupuncture.html</loc>
+    <lastmod>2020-06-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/logo.png</image:loc>
+      <image:title>sriam ayurvedic hospital</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/services/acupuncture.jpg</image:loc>
+      <image:title>acupuncture</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/blog/post-thumb-small.jpg</image:loc>
+      <image:title>post-thumb</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://sriamayurvedaresearch.com/cupping.html</loc>
+    <lastmod>2020-06-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/logo.png</image:loc>
+      <image:title>sriam ayurvedic hospital</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/services/cupping-therapy.jpg</image:loc>
+      <image:title>dry cupping and wet cupping</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/blog/post-thumb-small.jpg</image:loc>
+      <image:title>post-thumb</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://sriamayurvedaresearch.com/blog.html</loc>
+    <lastmod>2020-06-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://sriamayurvedaresearch.com/gallery.html</loc>
+    <lastmod>2020-06-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/logo.png</image:loc>
+      <image:title>sriam ayurvedic hospital</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/gallery/video-thumb-01.jpg</image:loc>
+      <image:title>video-gallery</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/gallery/video-thumb-02.jpg</image:loc>
+      <image:title>video-gallery</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/gallery/video-thumb-03.jpg</image:loc>
+      <image:title>video-gallery</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/gallery/video-thumb-04.jpg</image:loc>
+      <image:title>video-gallery</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/gallery/dsrm.jpg</image:loc>
+      <image:title>dr dhenuvakonda srirama murthy</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/gallery/inaugaration.jpg</image:loc>
+      <image:title>inaugaration sriam</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/gallery/panchakarma-5.jpg</image:loc>
+      <image:title>panchakarma</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/gallery/cupping-3.jpg</image:loc>
+      <image:title>dry cupping</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/gallery/Accupuncture-1.jpg</image:loc>
+      <image:title>Acupuncture</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/gallery/leech-2.jpg</image:loc>
+      <image:title>leech therapy</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/gallery/marma-2.jpg</image:loc>
+      <image:title>gallery-image</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/gallery/panchakarma-3.jpg</image:loc>
+      <image:title>Panchakarma</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/gallery/cupping-6.jpg</image:loc>
+      <image:title>wet Cupping</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/gallery/leech-1.jpg</image:loc>
+      <image:title>leech therapy</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/gallery/accupuncture-3.jpg</image:loc>
+      <image:title>acupuncture</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/gallery/marma-1.jpg</image:loc>
+      <image:title>Marma Therapy</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/gallery/cupping-1.jpg</image:loc>
+      <image:title>Wet Cupping</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/gallery/accupuncture-2.jpg</image:loc>
+      <image:title>acupuncture</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/gallery/panchakarma-4.jpg</image:loc>
+      <image:title>Panchakarma</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/blog/post-thumb-small.jpg</image:loc>
+      <image:title>post-thumb</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://sriamayurvedaresearch.com/contact.html</loc>
+    <lastmod>2020-06-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/logo.png</image:loc>
+      <image:title>sriam ayurvedic hospital</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/blog/post-thumb-small.jpg</image:loc>
+      <image:title>post-thumb</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://sriamayurvedaresearch.com/about.html</loc>
+    <lastmod>2020-06-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/logo.png</image:loc>
+      <image:title>sriam ayurvedic hospital</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/about/service-one.jpg</image:loc>
+      <image:title>sriam logo story</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/about/sriram-murthigaru.jpg</image:loc>
+      <image:title>dr srirama murthy</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/about/nagendra-sir.jpg</image:loc>
+      <image:title>dr nagendra babu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/blog/post-thumb-small.jpg</image:loc>
+      <image:title>post-thumb</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://sriamayurvedaresearch.com/speciality.html</loc>
+    <lastmod>2020-06-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/logo.png</image:loc>
+      <image:title>sriam ayurvedic hospital</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/panchakarma-logo.png</image:loc>
+      <image:title>panchakarma logo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/cupping-logo.png</image:loc>
+      <image:title>cupping therapy-logo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/marma.png</image:loc>
+      <image:title>marma therapy-logo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/acupuncture.png</image:loc>
+      <image:title>acupuncture-logo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/spine.jpg</image:loc>
+      <image:title>spine problems</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/ortho.jpg</image:loc>
+      <image:title>ortho problems</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/immune-disorders.jpg</image:loc>
+      <image:title>immune problems</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/varicose.jpg</image:loc>
+      <image:title>varicose problems</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/pediatrics.jpg</image:loc>
+      <image:title>pediatrics problems</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/gyn.jpg</image:loc>
+      <image:title>gynaec problems</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/blog/post-thumb-small.jpg</image:loc>
+      <image:title>post-thumb</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://sriamayurvedaresearch.com/research.html</loc>
+    <lastmod>2020-06-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://sriamayurvedaresearch.com/index.html</loc>
+    <lastmod>2020-06-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/logo.png</image:loc>
+      <image:title>sriam ayurvedic hospital</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/icons/spine.png</image:loc>
+      <image:title>spine icon</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/spine.jpg</image:loc>
+      <image:title>spine problems</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/icons/orthopng.png</image:loc>
+      <image:title>ortho icon</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/ortho.jpg</image:loc>
+      <image:title>ortho problems</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/icons/immune.png</image:loc>
+      <image:title>immune logo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/immune-disorders.jpg</image:loc>
+      <image:title>immune problems</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/services/service-middle.png</image:loc>
+      <image:title>integrating</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/icons/leech.png</image:loc>
+      <image:title>leech logo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/varicose.jpg</image:loc>
+      <image:title>varicose problems</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/icons/pediatrics.png</image:loc>
+      <image:title>pediatrics logo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/pediatrics.jpg</image:loc>
+      <image:title>pediatrics problems</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/gyn.jpg</image:loc>
+      <image:title>gynaec problems</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/services/panchakarma.jpg</image:loc>
+      <image:title>panchakarma tratment</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/services/cupping-therapy.jpg</image:loc>
+      <image:title>dry cupping and wet cupping</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/services/marma.jpg</image:loc>
+      <image:title>marma therapy</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/services/acupuncture.jpg</image:loc>
+      <image:title>acupuncture</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/services/doorstep.jpg</image:loc>
+      <image:title>treatment at your home</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/testimonials/male.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/testimonials/female.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://sriamayurvedaresearch.com/images/blog/post-thumb-small.jpg</image:loc>
+      <image:title>post-thumb</image:title>
+    </image:image>
+  </url>
+</urlset>
+<!--<guid value="095e4ff5-21d2-4a50-a215-9e222ce943c9" />-->
+<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
