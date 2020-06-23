@@ -4,7 +4,7 @@
 	//1.Hide Loading Box (Preloader)
 	function handlePreloader() {
 		if($('.preloader').length){
-			$('.preloader').delay(200).fadeOut(500);
+			$('.preloader').delay(100).fadeOut(100);
 		}
 	}	
 	
@@ -78,16 +78,16 @@
 	}
 
 	//27.Select menu 
-	function selectDropdown() {
-	    if ($(".selectmenu").length) {
-	        $(".selectmenu").selectmenu();
-
-	        var changeSelectMenu = function(event, item) {
-	            $(this).trigger('change', item);
-	        };
-	        $(".selectmenu").selectmenu({ change: changeSelectMenu });
-	    };
-	}	
+//	function selectDropdown() {
+//	    if ($(".selectmenu").length) {
+//	        $(".selectmenu").selectmenu();
+//
+//	        var changeSelectMenu = function(event, item) {
+//	            $(this).trigger('change', item);
+//	        };
+//	        $(".selectmenu").selectmenu({ change: changeSelectMenu });
+//	    };
+//	}	
 	
 	//28.Elements Animation
 	if($('.wow').length){
