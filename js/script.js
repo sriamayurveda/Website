@@ -77,17 +77,17 @@
 	    };
 	}
 
-	//27.Select menu 
-//	function selectDropdown() {
-//	    if ($(".selectmenu").length) {
-//	        $(".selectmenu").selectmenu();
-//
-//	        var changeSelectMenu = function(event, item) {
-//	            $(this).trigger('change', item);
-//	        };
-//	        $(".selectmenu").selectmenu({ change: changeSelectMenu });
-//	    };
-//	}	
+//	27.Select menu 
+	function selectDropdown() {
+	    if ($(".selectmenu").length) {
+	        $(".selectmenu").selectmenu();
+
+	        var changeSelectMenu = function(event, item) {
+	            $(this).trigger('change', item);
+	        };
+	        $(".selectmenu").selectmenu({ change: changeSelectMenu });
+	    };
+	}	
 	
 	//28.Elements Animation
 	if($('.wow').length){
