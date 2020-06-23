@@ -698,9 +698,9 @@ li {
 .slick-dotted.slick-slider {
     margin-bottom: 0 !important
 }
-
+/*
 .cta {
-    padding: 40px 0
+    padding: 40px 0;
 }
 
 .cta .cta-block {
@@ -720,21 +720,7 @@ li {
     }
 }
 
-.cta .cta-block .emmergency {
-    background-image: -webkit-linear-gradient(45deg, #56c388 0, #70ea26 100%);
-    background-image: -moz-linear-gradient(45deg, #56c388 0, #70ea26 100%);
-    background-image: -o-linear-gradient(45deg, #56c388 0, #70ea26 100%);
-    background-image: linear-gradient(45deg, #56c388 0, #70ea26 100%)
-}
 
-.cta .cta-block .emmergency a {
-    color: #fff;
-    font-size: 30px
-}
-
-.cta .cta-block .emmergency p {
-    padding-top: 20px
-}
 
 .cta .cta-block .top-doctor {
     background-image: -webkit-linear-gradient(45deg, #56c388 0, #70ea26 100%);
@@ -812,10 +798,13 @@ li {
     font-size: 16px;
     line-height: 19px
 }
+*/
 
 .maps {
     position: relative
 }
+
+
 
 .maps #maps {
     height: 400px;
@@ -3682,12 +3671,12 @@ li {
 }
 
 .feature_part1 {
-    padding: 0
+    padding: 50px;
 }
 
 @media (max-width:991px) {
     .feature_part {
-        padding: 70px 0
+        padding: 50px 0
     }
 }
 
