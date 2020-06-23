@@ -698,113 +698,10 @@ li {
 .slick-dotted.slick-slider {
     margin-bottom: 0 !important
 }
-/*
-.cta {
-    padding: 40px 0;
-}
-
-.cta .cta-block {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    border-radius: 4px;
-    overflow: hidden
-}
-
-@media (max-width:767px) {
-    .cta .cta-block {
-        -webkit-box-orient: vertical;
-        -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-        flex-direction: column
-    }
-}
-
-
-
-.cta .cta-block .top-doctor {
-    background-image: -webkit-linear-gradient(45deg, #56c388 0, #70ea26 100%);
-    background-image: -moz-linear-gradient(45deg, #56c388 0, #70ea26 100%);
-    background-image: -o-linear-gradient(45deg, #56c388 0, #70ea26 100%);
-    background-image: linear-gradient(45deg, #56c388 0, #70ea26 100%)
-}
-
-.cta .cta-block .top-doctor .btn-main {
-    margin-top: 10px;
-    color: #fff;
-    border: 1px solid #fff;
-    padding: 10px 20px;
-    transition: all .3s ease
-}
-
-.cta .cta-block .top-doctor .btn-main:hover {
-    background: #fff;
-    color: #48bdc5
-}
-
-.cta .cta-block .working-time {
-    background-image: -webkit-linear-gradient(45deg, #56c388 0, #70ea26 100%);
-    background-image: -moz-linear-gradient(45deg, #56c388 0, #70ea26 100%);
-    background-image: -o-linear-gradient(45deg, #56c388 0, #70ea26 100%);
-    background-image: linear-gradient(45deg, #56c388 0, #70ea26 100%)
-}
-
-.cta .cta-block .working-time ul {
-    margin: 0;
-    padding: 0
-}
-
-.cta .cta-block .working-time ul li {
-    color: #fff;
-    text-transform: uppercase;
-    letter-spacing: 2px
-}
-
-.cta .cta-block .working-time ul li span {
-    float: right
-}
-
-.cta .cta-block .working-time ul li:not(:last-child) {
-    border-bottom: 1px solid #fff
-}
-
-.cta .cta-block .item {
-    padding: 20px 30px;
-    -ms-flex-preferred-size: 33.33%;
-    flex-basis: 33.33%
-}
-
-.cta .cta-block .item h2,
-.cta .cta-block .item i,
-.cta .cta-block .item p {
-    transition: all .2s ease;
-    color: #fff
-}
-
-.cta .cta-block .item i {
-    font-size: 30px;
-    margin-bottom: 20px
-}
-
-.cta .cta-block .item h2 {
-    font-weight: 400;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    font-size: 25px;
-    margin-bottom: 30px
-}
-
-.cta .cta-block .item p {
-    font-size: 16px;
-    line-height: 19px
-}
-*/
 
 .maps {
     position: relative
 }
-
-
 
 .maps #maps {
     height: 400px;
@@ -3671,7 +3568,7 @@ li {
 }
 
 .feature_part1 {
-    padding: 50px;
+    padding: 50px
 }
 
 @media (max-width:991px) {
@@ -4192,9 +4089,4 @@ blockquote cite {
     blockquote cite {
         text-align: justify
     }
-}
-
-.custom1
-{
-    margin-top: -5%;
 }
